@@ -1,4 +1,4 @@
-#🖩 Calculator with Theme Toggle
+# 🖩 Calculator with Theme Toggle
 
 A simple, responsive Calculator built using HTML, CSS, and JavaScript, featuring a Dark Mode & Light Mode Toggle for an enhanced user experience.
 
